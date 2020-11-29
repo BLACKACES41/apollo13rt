@@ -1918,7 +1918,7 @@ FAN MOTOR.
 
 [56 44 07 - 56 44 11] EECOM
 CRYO FAN MOTORS TANK 1. There are three circuit breakers - {three phase.}
-1> Three-phase alternating current. Motors are easier built on three-phase AC. Unlike the two-phase AC your house gets, three-phase AC works with three wires.
+1> Three-phase alternating current. Motors are easier built on three-phase AC. Unlike the one-phase AC your house gets, three-phase AC works with three wires.
 
 [56 44 15 - 56 44 16] FLIGHT
 Get that, CAPCOM?
