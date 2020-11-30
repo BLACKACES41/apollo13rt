@@ -698,7 +698,7 @@ Okay, 13. We'd like to have you give us those systems test readings on FUEL CELL
 Okay. 1 and 3 coming up.
 
 [57 10 14 - 57 11 07] LMP
-Okay Jack, 1-A is reading - lower scale. 0. 1-B is reading 3.45. Okay. You only want FUEL CELLs 1 and 3, okay - ignore that 1-B reading. 1-C is reading 3.4. Now, 1-D is reading 2.4. 2-B is reading 0.25.
+Okay Jack, 1-A is reading - lower scale. 0. 1-B is reading 3.45. Okay. You only want FUEL CELLs 1 and 3, okay - ignore that 1-B reading. 1-C is reading 3.4. Uh, 1-D is reading 2.4. 2-B is reading 0.25.
 
 [57 11 10 - 57 11 11] CAPCOM
 Roger, is that 2 Bravo, Fred?
