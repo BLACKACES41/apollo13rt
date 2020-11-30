@@ -949,7 +949,7 @@ Okay. In the CSM on panel 5, circuit breakers LM POWER 1 and 2, OPEN. Then LM PO
 Standby 1.
 
 [57 38 25 - 57 38 56] LMP
-Okay. In the CSM, on panel 5, we want CB LM POWER 1 and 2, OPEN. Then the LM POWER switch to reset, release. In the LM, panels 11 and 16, XLUNAR BUS TIE breakers closed. On panel 16, the ASCENT ECA CONTROL closed, the DESCENT ECA CONTROL closed. On panel 14, BAT 5 NORMAL feed ON, followed by BATS 1, 2, 3, and 4 LOW VOLTAGE taps ON. Then BAT 5 NORMAL feed OFF. Then ASCENT ECA CONTROL breaker OPEN.
+Okay. In the CSM, on panel 5, we want CB LM POWER 1 and 2, OPEN. Then the LM POWER switch to reset, release. In the LM, panels 11 and 16, TRANS-LUNAR BUS TIE breakers closed. On panel 16, the ASCENT ECA CONTROL closed, the DESCENT ECA CONTROL closed. On panel 14, BAT 5 NORMAL feed ON, followed by BATS 1, 2, 3, and 4 LOW VOLTAGE taps ON. Then BAT 5 NORMAL feed OFF. Then ASCENT ECA CONTROL breaker OPEN.
 
 [57 38 59] CAPCOM
 That's a good readback, Fred.
